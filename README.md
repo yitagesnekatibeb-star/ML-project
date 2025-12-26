@@ -50,9 +50,9 @@ F1-Score: 0.7517
 
 The project is designed to work with the following datasets:
 
-Ultrasound (BUSI): [Insert Dataset Link Here]
+Ultrasound (BUSI)
 
-Mammography (MIAS): [Insert Dataset Link Here]
+Mammography (MIAS)
 
 Note: The script is configured to look for these datasets within Google Drive at the path /My Drive/breast c.
 
@@ -79,10 +79,12 @@ Train models and generate evaluation visualizations.
 
 Launch the Gradio Interface for interactive image analysis.
 
-👤 Author
+
 
 Your Name
+Yitages Nekatibeb
+Firdawukal Alemu
 
-Submitted to: [Teacher's Name]
+Submitted to: Mr. Muhammed
 
-Disclaimer: This system is intended for educational and research purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment.
+
