@@ -82,8 +82,8 @@ Launch the Gradio Interface for interactive image analysis.
 
 
 Your Name
-Yitages Nekatibeb
-Firdawukal Alemu
+1 Yitages Nekatibeb
+2 Firdawukal Alemu
 
 Submitted to: Mr. Muhammed
 
